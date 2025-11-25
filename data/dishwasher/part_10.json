@@ -1,0 +1,93 @@
+{
+  "name": "Dishwasher Friction Sleeve WP8268961",
+  "price": 8.92,
+  "partselect_number": "PS11745488",
+  "manufacturer_number": "WP8268961",
+  "manufactured_by": "Whirlpool",
+  "image_url": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/11745488-1-M-Whirlpool-WP8268961-Dishwasher-Friction-Sleeve.jpg",
+  "description": "This part helps to keep your door quiet when it opens and closes.",
+  "part_video_url": "",
+  "troubleshooting": {
+    "symptoms": [
+      "Door latch failure",
+      "Door won’t close",
+      "Noisy"
+    ],
+    "replaces": [
+      "AP6012281",
+      "8268961",
+      "WP8268961VP"
+    ],
+    "products": [
+      "Dishwasher"
+    ]
+  },
+  "rating": 4.9,
+  "model_cross_reference": [
+    {
+      "brand": "Kenmore",
+      "model_number": "2212413N414",
+      "description": "Dishwasher - Kenmore Dishwasher 2212413n414"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2213092N413",
+      "description": "Dishwasher - Kenmore Dishwasher 2213092n413"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2213099N413",
+      "description": "Dishwasher - Kenmore Dishwasher 2213099n413"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2213479N413",
+      "description": "Dishwasher - Kenmore Dishwasher 2213479n413"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2213804N710",
+      "description": "Dishwasher - Kenmore Dishwasher 2213804n710"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2213809N710",
+      "description": "Dishwasher - Kenmore Dishwasher 2213809n710"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2217383N710",
+      "description": "Dishwasher - Kenmore Dishwasher 2217383n710"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2217389N710",
+      "description": "Dishwasher - Kenmore Dishwasher 2217389n710"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66213013K112",
+      "description": "Dishwasher - Kenmore Dishwasher Model 662.13013K112 (66213013K112, 662 13013K112) Parts"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66213014K112",
+      "description": "Dishwasher - Kenmore Dishwasher Model 662.13014K112 (66213014K112, 662 13014K112) Parts"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66213019K112",
+      "description": "Dishwasher - Kenmore Dishwasher Model 662.13019K112 (66213019K112, 662 13019K112) Parts"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66213023K112",
+      "description": "Dishwasher - Kenmore Dishwasher Model 662.13023K112 (66213023K112, 662 13023K112) Parts"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66213032K112",
+      "description": "Dishwasher - Dishwasher"
+    }
+  ]
+}

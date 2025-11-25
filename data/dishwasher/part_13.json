@@ -1,0 +1,85 @@
+{
+  "name": "GASKET W11768590",
+  "price": 26.33,
+  "partselect_number": "PS18355438",
+  "manufacturer_number": "W11768590",
+  "manufactured_by": "Whirlpool",
+  "image_url": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/18355438-1-M-Whirlpool-W11768590-GASKET.jpg",
+  "description": "This door gasket is a genuine OEM replacement part that is specially designed for your dishwasher. The gasket is located around the frame of the dishwasher. It is a rubber seal that helps prevent water from leaking out of the dishwasher during the wash cycle. It also helps to absorb the noise and vibrations created while the dishwasher is running. Over time the gasket may wear down, tear, or fall off due to exposure to heat and chemicals. If the gasket can no longer create a watertight seal, it is best to replace it promptly to keep your dishwasher running efficiently and to prevent potential accidents.",
+  "part_video_url": "",
+  "troubleshooting": {
+    "symptoms": [
+      "Leaking"
+    ],
+    "replaces": [
+      "W10524469",
+      "W11425053",
+      "W11498831",
+      "W11683628",
+      "W11725437",
+      "W11758955",
+      "WPW10524469"
+    ],
+    "products": [
+      "Dishwasher"
+    ]
+  },
+  "rating": 4.9,
+  "model_cross_reference": [
+    {
+      "brand": "Kenmore",
+      "model_number": "2213092N413",
+      "description": "Dishwasher - Kenmore Dishwasher 2213092n413"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2213099N413",
+      "description": "Dishwasher - Kenmore Dishwasher 2213099n413"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2213479N413",
+      "description": "Dishwasher - Kenmore Dishwasher 2213479n413"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2213809N710",
+      "description": "Dishwasher - Kenmore Dishwasher 2213809n710"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2214502N020",
+      "description": "Dishwasher - Kenmore Dishwasher 2214502n020"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2217383N710",
+      "description": "Dishwasher - Kenmore Dishwasher 2217383n710"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2217389N710",
+      "description": "Dishwasher - Kenmore Dishwasher 2217389n710"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512093K210",
+      "description": "Dishwasher - UNDERCOUNTER DISWASHER"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512413N410",
+      "description": "Dishwasher - DISHWASHER"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512413N411",
+      "description": "Dishwasher - DISHWASHER"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512413N412",
+      "description": "Dishwasher - DISHWASHER"
+    }
+  ]
+}

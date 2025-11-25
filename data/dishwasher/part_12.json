@@ -1,0 +1,108 @@
+{
+  "name": "Dishwasher Positioner WPW10195840",
+  "price": 45.82,
+  "partselect_number": "PS11750093",
+  "manufacturer_number": "WPW10195840",
+  "manufactured_by": "Whirlpool",
+  "image_url": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/11750093-1-M-Whirlpool-WPW10195840-Dishwasher-Positioner.jpg",
+  "description": "Also known as rack adjuster. Sold individually. This is an original part from KitchenAid, Kenmore, Whirlpool, Jenn-Air, and Maytag for use with Dishwashers. The dishrack adjuster arm positioner clip holds the adjuster arm in the right position on the dishrack. The most common reason for replacing the strap is if the rack will not stay in its desired position. This part is sold individually. There are no tools needed to replace the positioner.",
+  "part_video_url": "",
+  "troubleshooting": {
+    "symptoms": [
+      "Door won’t close",
+      "Not cleaning dishes properly",
+      "Door latch failure"
+    ],
+    "replaces": [
+      "AP6016800",
+      "W10195840",
+      "W10418323"
+    ],
+    "products": [
+      "Dishwasher"
+    ]
+  },
+  "rating": 3.0,
+  "model_cross_reference": [
+    {
+      "brand": "Kenmore",
+      "model_number": "2213222N414",
+      "description": "Dishwasher - Kenmore Dishwasher 2213222n414"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2213223N414",
+      "description": "Dishwasher - Kenmore Dishwasher 2213223n414"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2213229N414",
+      "description": "Dishwasher - Kenmore Dishwasher 2213229n414"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2214523N611",
+      "description": "Dishwasher - Kenmore Dishwasher 2214523n611"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2214545N711",
+      "description": "Dishwasher - Kenmore Dishwasher 2214545n711"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2214715N710",
+      "description": "Dishwasher - Kenmore Dishwasher 2214715n710"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2214792N512",
+      "description": "Dishwasher - Kenmore Dishwasher 2214792n512"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "2214793N512",
+      "description": "Dishwasher - Kenmore Dishwasher 2214793n512"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66213293K112",
+      "description": "Dishwasher - Kenmore Dishwasher Model 662.13293K112 (66213293K112, 662 13293K112) Parts"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512762K312",
+      "description": "Dishwasher - Dishwasher"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512762K314",
+      "description": "Dishwasher - Kenmore Elite 66512762k314 Dishwasher"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512763K312",
+      "description": "Dishwasher - Kenmore Dishwasher 66512763k312"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512763K313",
+      "description": "Dishwasher - Dishwasher"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512763K314",
+      "description": "Dishwasher - Kenmore Elite 66512763k314 Dishwasher"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512769K312",
+      "description": "Dishwasher - Kenmore Dishwasher 66512769k312"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512769K313",
+      "description": ""
+    }
+  ]
+}

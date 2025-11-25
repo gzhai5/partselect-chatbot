@@ -1,0 +1,66 @@
+{
+  "name": "Refrigerator Door Shelf Bin WPW10321304",
+  "price": 44.95,
+  "partselect_number": "PS11752778",
+  "manufacturer_number": "WPW10321304",
+  "manufactured_by": "Whirlpool",
+  "image_url": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/11752778-1-M-Whirlpool-WPW10321304-Refrigerator-Door-Shelf-Bin.jpg",
+  "description": "This refrigerator door bin is a genuine OEM replacement designed to fit many side-by-side refrigerator models. Compatible with brands like KitchenAid, Maytag, and Amana, it attaches to the interior door, providing storage for jars and bottles. Featuring a clear design with white trim, this bin is both durable and functional. Installation is tool-free—simply align and snap into place. Verify your refrigerator’s model number before ordering to ensure compatibility, as dimensions may vary slightly. Restore your refrigerator's storage capacity and organization with this high-quality replacement door bin.",
+  "part_video_url": "",
+  "troubleshooting": {
+    "symptoms": [
+      "Door won’t open or close",
+      "Ice maker won’t dispense ice",
+      "Leaking"
+    ],
+    "replaces": [
+      "AP6019471",
+      "2171046",
+      "2171047",
+      "2179574",
+      "2179575",
+      "2179607",
+      "2179607K",
+      "2198449",
+      "2198449K",
+      "2304235",
+      "2304235K",
+      "W10321302",
+      "W10321303",
+      "W10321304",
+      "W10549739",
+      "WPW10321304VP"
+    ],
+    "products": [
+      "Refrigerator"
+    ]
+  },
+  "rating": 4.9,
+  "model_cross_reference": [
+    {
+      "brand": "Kenmore",
+      "model_number": "10640262010",
+      "description": "Refrigerator"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "10640263010",
+      "description": "Refrigerator"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "10640263011",
+      "description": "Refrigerator - REFRIGERATOR"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "10640269010",
+      "description": "Refrigerator"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "10640562010",
+      "description": "Refrigerator"
+    }
+  ]
+}

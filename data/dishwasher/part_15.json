@@ -1,0 +1,60 @@
+{
+  "name": "LOWER RACK WD28X34744",
+  "price": 83.25,
+  "partselect_number": "PS17873657",
+  "manufacturer_number": "WD28X34744",
+  "manufactured_by": "GE",
+  "image_url": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/17873657-1-M-GE-WD28X34744-LOWER-RACK.jpg",
+  "description": "This is an authentic lower dishrack with wheels. Please note that the manufacturer has made a design change, which requires the silverware basket to be relocated from the door to the inside of the rack along the right side. The lower dishrack is where large pots and plates are stored and can be easily rolled in and out of the dishwasher. It is usually replaced because it has started to rust, corrode, or break. Simply slide the old one out, line the new one up with the tracks, and slide it into place, very quick and easy.",
+  "part_video_url": "",
+  "troubleshooting": {
+    "symptoms": [
+      "Not cleaning dishes properly"
+    ],
+    "replaces": [
+      "WD28X22506",
+      "WD28X22696",
+      "WD28X24396",
+      "WD28X24478",
+      "WD28X26099",
+      "WD28X26103",
+      "WD28X27744",
+      "WD28X27745",
+      "WD28X27979",
+      "WD28X28218",
+      "WD28X32958",
+      "WD28X34500"
+    ],
+    "products": [
+      "Dishwasher"
+    ]
+  },
+  "rating": 4.6,
+  "model_cross_reference": [
+    {
+      "brand": "General Electric",
+      "model_number": "GDF450PGR0BB",
+      "description": "Dishwasher - Dishwasher"
+    },
+    {
+      "brand": "General Electric",
+      "model_number": "GDF450PGR0WW",
+      "description": "Dishwasher - Dishwasher"
+    },
+    {
+      "brand": "General Electric",
+      "model_number": "GDF450PGR1BB",
+      "description": "Dishwasher - Dishwasher"
+    },
+    {
+      "brand": "General Electric",
+      "model_number": "GDF450PGR1WW",
+      "description": "Dishwasher - Dishwasher"
+    },
+    {
+      "brand": "General Electric",
+      "model_number": "GDF450PGR3WW",
+      "description": "Dishwasher - Dishwasher"
+    }
+  ]
+}

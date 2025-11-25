@@ -1,0 +1,90 @@
+{
+  "name": "Detergent Dispenser W10861000",
+  "price": 79.73,
+  "partselect_number": "PS11731570",
+  "manufacturer_number": "W10861000",
+  "manufactured_by": "Whirlpool",
+  "image_url": "https://partselectcom-gtcdcddbene3cpes.z01.azurefd.net/11731570-1-M-Whirlpool-W10861000-Detergent-Dispenser.jpg",
+  "description": "This dishwasher detergent dispenser is a genuine OEM replacement part designed for select models from Whirlpool, KitchenAid, Maytag, Amana, and other affiliated brands. Mounted on the inner door panel, it features separate, covered compartments for detergent and rinse aid, ensuring precise release during the wash cycle. The spring-loaded mechanism is engineered to dispense cleaning agents at optimal times, enhancing overall wash performance. Constructed from heat-resistant, high-grade materials, this dispenser offers long-term durability and reliability. It replaces older components such as W10620296 and W10620298. Compatibility should be verified using your dishwasher’s model number prior to installation.",
+  "part_video_url": "",
+  "troubleshooting": {
+    "symptoms": [
+      "Will not dispense detergent",
+      "Door latch failure",
+      "Not cleaning dishes properly"
+    ],
+    "replaces": [
+      "AP5999391",
+      "W10620296",
+      "W10620298",
+      "W10620299",
+      "W10861000VP"
+    ],
+    "products": [
+      "Dishwasher"
+    ]
+  },
+  "rating": 4.5,
+  "model_cross_reference": [
+    {
+      "brand": "Kenmore",
+      "model_number": "2213229N414",
+      "description": "Dishwasher - Kenmore Dishwasher 2213229n414"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512762K314",
+      "description": "Dishwasher - Kenmore Elite 66512762k314 Dishwasher"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512763K314",
+      "description": "Dishwasher - Kenmore Elite 66512763k314 Dishwasher"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512769K314",
+      "description": "Dishwasher - Kenmore Elite 66512769k314 Dishwasher"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512774K314",
+      "description": "Dishwasher - Kenmore Elite 66512774k314 Dishwasher"
+    },
+    {
+      "brand": "Kenmore",
+      "model_number": "66512833K314",
+      "description": "Dishwasher - Kenmore Elite 66512833k314 Dishwasher"
+    },
+    {
+      "brand": "Amana",
+      "model_number": "ADB1700ADB2",
+      "description": "Dishwasher - DISHWASHER"
+    },
+    {
+      "brand": "Amana",
+      "model_number": "ADB1700ADB3",
+      "description": "Dishwasher - DISHWASHER"
+    },
+    {
+      "brand": "Whirlpool",
+      "model_number": "ADB1700ADB4",
+      "description": "Dishwasher"
+    },
+    {
+      "brand": "Amana",
+      "model_number": "ADB1700ADS2",
+      "description": "Dishwasher - DISHWASHER"
+    },
+    {
+      "brand": "Amana",
+      "model_number": "ADB1700ADS3",
+      "description": "Dishwasher - DISHWASHER"
+    },
+    {
+      "brand": "Amana",
+      "model_number": "ADB1700ADS4",
+      "description": "Dishwasher"
+    }
+  ]
+}
