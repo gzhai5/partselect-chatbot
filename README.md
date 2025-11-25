@@ -13,6 +13,17 @@ This repository aims to develop a e-commerce chatbot tailored for the PartSelect
     - [MongoDB](https://www.mongodb.com/)
 * Log Monitor: [Dozzle](https://dozzle.dev/)
 
+## 🎨 Responsive UIs
+<div style="display: flex; gap: 1rem; align-items: flex-start;">
+  <img src="/static/ui-lg.png" width="72%" />
+  <img src="/static/ui-sm.png" width="24%" />
+</div>
+
+<p style="text-align:center; font-size:14px; color:#666;">
+  UI layouts: larger screens for chatbot used in ChatGPT, Claude (left) vs smaller screens for mobile usage or embedded window inside other websites (right).
+</p>
+
+
 ## 🏛 System Architecture
 ![System Architecture Diagram](/static/arch_diag.png)
 
