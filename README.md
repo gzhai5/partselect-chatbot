@@ -44,7 +44,7 @@ User asks: _“cool! How can I install it?”_
 ### Demo 4: Logic Reasoning
 User asks: _“Is this part compatible with my WDT780SAEM1 model?”_
 ![Use Case 4](/static/demo4.png)
-### Demo 4: How to Repair
+### Demo 5: How to Repair
 User asks: _“The ice maker on my Whirlpool fridge is not working. How can I fix it?”_
 ![Use Case 5](/static/demo5.png)
 
