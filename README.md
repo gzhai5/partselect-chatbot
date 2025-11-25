@@ -1,20 +1,21 @@
-# milea-chatbot
+# partselect-chatbot
 
 ## 📝 Introduction
 
-This repository aims to develop a general-purpose chatbot tailored for the winery industry. The goal is to reduce the workload of handling repetitive customer inquiries and to support sales efforts by engaging with potential new customers.
+This repository aims to develop a e-commerce chatbot tailored for the PartSelect website. The goal is to reduce the workload of handling repetitive customer inquiries and to support sales efforts by engaging with potential new customers.
 
 ## ⚙️ Tech Stacks
 * Frontend: [Next.js](https://nextjs.org/)
-* Backend: [FastAPI](https://fastapi.tiangolo.com/)
+* Backend:
+    - [FastAPI](https://fastapi.tiangolo.com/)
+    - [FastMCP](https://gofastmcp.com/getting-started/welcome)
 * Databases:
     - [MongoDB](https://www.mongodb.com/)
-    - [Milvus](https://milvus.io/)
 * Log Monitor: [Dozzle](https://dozzle.dev/)
 
 ## 🚧 Current stage
 
-The project has reached MVP stage, but requires more tests...
+The project has already been devloped to have basic sturcture and features, but requires more tests...
 
 ## 🛠️ Local build
 
@@ -23,11 +24,11 @@ The configuration file is located at [docker/docker-compose.yml](docker/docker-c
 
 ### 🔐 Environment Setup
 
-Obtain the required environment variable files (for simplicity, all env files are combined) from a team member and place it at:
+Obtain the required environment variable files (for simplicity, all env files are combined) from the author (or insert yours) and place it at:
 
-- `env/.env`
-- `cron-job-runner/params.py`
-- `mcp-server/app/params.py`
+- `chat-server/.env`
+- `client/.env.local`
+- `mcp-server/.env`
 
 ### ⚙️ Prerequisites
 
@@ -49,14 +50,11 @@ docker compose up --build
 docker ps -a
 ```
 
-### 📥 Inject Vector Data into Milvus
-Since Milvus uses local storage, the vector database may initially be empty. But there's a cron job that will do the job every 1am to pull every markdownfiles from S3, vectorize them, inject into the Milvus.
-
 ### 💻 Start the Frontend
 Install the frontend dependencies:
 
 ```bash
-cd chatbot-client
+cd client
 npm i
 ```
 
