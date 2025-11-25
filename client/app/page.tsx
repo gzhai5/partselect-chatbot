@@ -5,17 +5,17 @@ import { ChatWidget } from './components/chat/chatWidget';
 
 export default function Home() {
   return (
-    <div className='bg-[#939C62] min-h-screen gap-6 flex flex-col'>
+    <div className='bg-slate-200 h-screen gap-6 flex flex-col'>
         <Navbar />
 
-        <div className="min-h-screen bg-[#939C62] text-primary flex flex-col items-center">
+        <div className="h-auto bg-slate-200 text-primary flex flex-col items-center">
 
             {/* Title Section */}
-            <h1 className="text-5xl mt-4 font-bold text-white">Ready when you are.</h1>
-            <p className="text-xl mt-4 mb-6 font-semibold text-white">Ask me about refrigerator or dishwasher!</p>
+            <h1 className="text-5xl sm:text-5xl md:text-7xl mt-4 font-bold text-teal-800">Ready when you are.</h1>
+            <p className="text-2xl sm:text-xl md:text-4xl mt-4 mb-6 font-semibold text-teal-800">Ask me about refrigerator or dishwasher!</p>
 
             {/* Chat Widget spanning across page */}
-            <div className="w-3/4 max-w-4xl">
+            <div className="w-5/6 max-w-[110rem] flex-1 flex">
                 <ChatWidget />
             </div>
         </div>

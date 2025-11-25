@@ -120,35 +120,35 @@ export const ChatWidget = () => {
 
 
     return (
-        <div className="flex flex-col h-full">
-            <div className="flex-1 overflow-y-auto p-4">
+        <div className="flex flex-col h-full w-full items-center">
+            <div className="flex-1 w-full overflow-y-auto p-4">
 
                 {/* Normal chat between user and bot */}
-                <div className={`w-full h-5/6 min-h-[30rem] min-w-[25rem] min-h-[20rem] items-center justify-center rounded-lg z-10 bg-transport}`}>
+                <div className='w-full h-full items-center justify-center rounded-lg'>
 
                     {/* chat area */}
-                    <div className='h-full w-full overflow-y-auto flex flex-col gap-4 px-2 relative'>
+                    <div className='h-full w-full flex flex-col gap-4 px-4 pr-6 relative'>
                         {conversationHistory.map((chat, _index) => (
                             <div key={chat.id} className={`chat ${chat.sender !== 'user' ? 'chat-start' : 'chat-end'}`}>
                                 
                                 {/* avatar */}
                                 <div className="chat-image avatar">
                                     <div className="w-10 h-10 rounded-full bg-zinc-100 flex text-[#337778] items-center justify-center">
-                                        {chat.sender === 'user' && <p className='text-2xl font-sans font-normal'>?</p>}
+                                        {chat.sender === 'user' && <p className='text-2xl font-sans font-normal'>U</p>}
                                         {chat.sender !== 'user' && <Bot size={30} color="#337778" />}
                                     </div>
                                 </div>
 
                                 {/* chat bubble */}
                                 <div
-                                    className={`chat-bubble max-w-[43rem] text-base font-semibold ${
-                                        chat.sender === "bot"
+                                    className={`chat-bubble max-w-[40rem] text-base font-semibold ${
+                                        chat.sender === "bot" || chat.sender === "system"
                                         ? "bg-[#EFE8D4] text-[#337778] pb-8"
                                         : "bg-[#337778] text-[#EFE8D4]"
                                     }`}
                                     >
                                     <div className={`markdown-body ${
-                                        chat.sender === "bot" ? "text-[#337778]" : "text-[#EFE8D4]"
+                                        (chat.sender === "bot" || chat.sender === "system") ? "text-[#337778]" : "text-[#EFE8D4]"
                                         }`}>
                                         <ReactMarkdown
                                             remarkPlugins={[remarkGfm, remarkBreaks]}
@@ -176,32 +176,32 @@ export const ChatWidget = () => {
                                 <span className="ml-2 text-lg text-purple-700">Thinking...</span>
                             </div>
                         )}
+
+                        {/* Anchor to scroll to */}
+                        <div ref={bottomRef} />
                     </div>
-
-                    {/* chat input box */}
-                    <form onSubmit={handleSubmit} className={`w-full bg-[#939C62] h-[3.5rem] min-w-[25rem] mt-[5rem] p-2 flex flex-row items-center justify-center gap-2 rounded-md z-10 `}>
-
-                        <input 
-                            type="text" 
-                            placeholder="Ask about our products..." 
-                            className="input input-warning bg-transparent w-full h-full text-lg text-[#5A3E00] placeholder-black font-semibold rounded-l-md px-3"
-                            value={query}
-                            onChange={(e) => setQuery(e.target.value)}
-                            onKeyDown={(e) => {
-                                if (e.key === 'Enter' && query.trim() !== '') {
-                                    handleSubmit(e);
-                                }
-                            }}
-                        />
-                        <button type="submit" className="btn btn-ghost btn-square rounded-r-md hover:bg-[#E0D3B8]" disabled={query.trim() === ''}>
-                            <SendIcon className="text-black" />
-                        </button>
-                    </form>
-
-                    {/* Anchor to scroll to */}
-                    <div ref={bottomRef} />
                 </div>
             </div>
+
+            {/* chat input box */}
+            <form onSubmit={handleSubmit} className={`w-4/5 bg-transparent h-[3.5rem] min-w-[25rem] mt-[5rem] p-2 flex flex-row items-center justify-center gap-2 rounded-md z-10 `}>
+
+                <input 
+                    type="text" 
+                    placeholder="Ask about our products..." 
+                    className="input bg-transparent w-full h-full text-lg font-semibold rounded-l-md px-3"
+                    value={query}
+                    onChange={(e) => setQuery(e.target.value)}
+                    onKeyDown={(e) => {
+                        if (e.key === 'Enter' && query.trim() !== '') {
+                            handleSubmit(e);
+                        }
+                    }}
+                />
+                <button type="submit" className="btn btn-ghost btn-square rounded-r-md hover:bg-[#E0D3B8]" disabled={query.trim() === ''}>
+                    <SendIcon className="text-black" />
+                </button>
+            </form>
         </div>
     )
 };
